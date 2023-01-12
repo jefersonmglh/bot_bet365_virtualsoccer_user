@@ -8,7 +8,7 @@
 
 2. Configurar o arquivo 'config.txt'.
 	* TOKEN: token do bot telegram. <a href=https://help.huggy.io/telegram-bot/como-configurar-o-telegram-bot> Tutorial de como criar o Bot e adquirir o token </a>
-	* CHAT_ID: id do chat, ou canal que será enviada as mensagens. <a href=https://www.alphr.com/find-chat-id-telegram/#:~:text=Click%20on%20the%20%E2%80%9CStart%E2%80%9D%20button,below%2C%20next%20to%20%E2%80%9Cid.> Tutorial de como achar seu Chat ID </a>
+	* CHAT_ID: id do chat, ou canal que será enviada as mensagens. <a href=https://www.alphr.com/find-chat-id-telegram/#:~:text=Click%20on%20the%20%E2%80%9CStart%E2%80%9D%20button,below%2C%20next%20to%20%E2%80%9Cid./> Tutorial de como achar seu Chat ID </a>
 	* API_KEY: chave da api para pegar os dados do futebol virtual (não mexer)		
 
 3. abrir o cmd/powershell e navegar até a pagina da aplicação.
