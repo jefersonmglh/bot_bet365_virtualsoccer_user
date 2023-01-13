@@ -1,6 +1,6 @@
 # Bet365 - Futebol Virtual Bot
 
-
+OBS.: Bot somente da interface do usuário. Os dados são fornecidos por uma API própria. Para adquirir a API-KEY consulte diretamente.
 
 ## Primeira configuração
 
