@@ -3,4 +3,4 @@ TOKEN = <BOT TELEGRAM TOKEN
 CHAT_ID = <CHAT TELEGRAM ID>
 
 [mongo_api_key]
-API_KEY = wFjkxYNfwGybC7gsuz6rZ91tDNlg32aIkcJsTscPQKyR8iF7jcxfBEdBrTzM8ibA
+API_KEY = <API_KEY>
